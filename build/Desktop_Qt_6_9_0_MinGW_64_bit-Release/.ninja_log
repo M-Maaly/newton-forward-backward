@@ -1,0 +1,90 @@
+# ninja log v6
+15	6699	7683606057967045	newton-fb-QT_autogen/timestamp	406dec935c33b461
+15	6699	7683606057967045	newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+15	6699	7683606057967045	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/timestamp	406dec935c33b461
+15	6699	7683606057967045	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+6730	11267	7683606059328686	CMakeFiles/newton-fb-QT.dir/muparser/muParserBytecode.cpp.obj	3452543b5477878
+6722	11305	7683606059248901	CMakeFiles/newton-fb-QT.dir/muparser/muParser.cpp.obj	2e69f0dde06cf66b
+6707	12440	7683606059099285	CMakeFiles/newton-fb-QT.dir/newton-fb-QT_autogen/mocs_compilation.cpp.obj	e06b0a6f70d3e84a
+6718	12605	7683606059199033	CMakeFiles/newton-fb-QT.dir/mainwindow.cpp.obj	8609bf103ce57fd6
+6726	14642	7683606059288786	CMakeFiles/newton-fb-QT.dir/muparser/muParserBase.cpp.obj	9fcceb6c222f4273
+239	6812	7684065130568055	newton-fb-QT_autogen/timestamp	406dec935c33b461
+239	6812	7684065130568055	newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+239	6812	7684065130568055	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/timestamp	406dec935c33b461
+239	6812	7684065130568055	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+6829	14444	7684065196464382	CMakeFiles/newton-fb-QT.dir/muparser/muParser.cpp.obj	2e69f0dde06cf66b
+6838	14455	7684065196564100	CMakeFiles/newton-fb-QT.dir/muparser/muParserBytecode.cpp.obj	3452543b5477878
+14456	14946	7684065272734734	CMakeFiles/newton-fb-QT.dir/muparser/muParserDLL.cpp.obj	685a5e168051945c
+6814	16059	7684065196324739	CMakeFiles/newton-fb-QT.dir/newton-fb-QT_autogen/mocs_compilation.cpp.obj	e06b0a6f70d3e84a
+6824	16489	7684065196424474	CMakeFiles/newton-fb-QT.dir/mainwindow.cpp.obj	8609bf103ce57fd6
+14445	17443	7684065272624499	CMakeFiles/newton-fb-QT.dir/muparser/muParserCallback.cpp.obj	f58c6567d5e08725
+14946	20197	7684065277638243	CMakeFiles/newton-fb-QT.dir/muparser/muParserError.cpp.obj	8f176cee98159366
+16059	20979	7684065288774550	CMakeFiles/newton-fb-QT.dir/muparser/muParserInt.cpp.obj	b6f6eab44fd55ed1
+6833	21990	7684065196514239	CMakeFiles/newton-fb-QT.dir/muparser/muParserBase.cpp.obj	9fcceb6c222f4273
+6819	22516	7684065196374611	CMakeFiles/newton-fb-QT.dir/main.cpp.obj	7fec4ae3c8fed09b
+16489	23625	7684065293065278	CMakeFiles/newton-fb-QT.dir/muparser/muParserTokenReader.cpp.obj	79a672c25ebb7c70
+23625	24377	7684065364428256	newton-fb-QT.exe	cec6367272222a2d
+165	681	7691709974389432	newton-fb-QT_autogen/timestamp	406dec935c33b461
+165	681	7691709974389432	newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+165	681	7691709974389432	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/timestamp	406dec935c33b461
+165	681	7691709974389432	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+733	8531	7691709980053661	CMakeFiles/newton-fb-QT.dir/muparser/muParser.cpp.obj	2e69f0dde06cf66b
+749	8617	7691709980229499	CMakeFiles/newton-fb-QT.dir/muparser/muParserBytecode.cpp.obj	3452543b5477878
+8618	9409	7691710058902050	CMakeFiles/newton-fb-QT.dir/muparser/muParserDLL.cpp.obj	685a5e168051945c
+684	10626	7691709979576812	CMakeFiles/newton-fb-QT.dir/newton-fb-QT_autogen/mocs_compilation.cpp.obj	e06b0a6f70d3e84a
+711	10898	7691709979835005	CMakeFiles/newton-fb-QT.dir/mainwindow.cpp.obj	8609bf103ce57fd6
+8574	11652	7691710058407548	CMakeFiles/newton-fb-QT.dir/muparser/muParserCallback.cpp.obj	f58c6567d5e08725
+9409	13492	7691710066821410	CMakeFiles/newton-fb-QT.dir/muparser/muParserError.cpp.obj	8f176cee98159366
+10627	14647	7691710078989303	CMakeFiles/newton-fb-QT.dir/muparser/muParserInt.cpp.obj	b6f6eab44fd55ed1
+739	15756	7691709980120733	CMakeFiles/newton-fb-QT.dir/muparser/muParserBase.cpp.obj	9fcceb6c222f4273
+692	16528	7691709979640063	CMakeFiles/newton-fb-QT.dir/main.cpp.obj	7fec4ae3c8fed09b
+10898	19176	7691710081717300	CMakeFiles/newton-fb-QT.dir/muparser/muParserTokenReader.cpp.obj	79a672c25ebb7c70
+19177	20501	7691710164500099	newton-fb-QT.exe	cec6367272222a2d
+122	534	7691712665277380	newton-fb-QT_autogen/timestamp	406dec935c33b461
+122	534	7691712665277380	newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+122	534	7691712665277380	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/timestamp	406dec935c33b461
+122	534	7691712665277380	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+563	7713	7691712669693641	CMakeFiles/newton-fb-QT.dir/muparser/muParserBytecode.cpp.obj	3452543b5477878
+554	7736	7691712669600271	CMakeFiles/newton-fb-QT.dir/muparser/muParser.cpp.obj	2e69f0dde06cf66b
+7736	8246	7691712741420988	CMakeFiles/newton-fb-QT.dir/muparser/muParserDLL.cpp.obj	685a5e168051945c
+535	9419	7691712669411851	CMakeFiles/newton-fb-QT.dir/newton-fb-QT_autogen/mocs_compilation.cpp.obj	e06b0a6f70d3e84a
+549	9713	7691712669560207	CMakeFiles/newton-fb-QT.dir/mainwindow.cpp.obj	8609bf103ce57fd6
+7713	10373	7691712741197967	CMakeFiles/newton-fb-QT.dir/muparser/muParserCallback.cpp.obj	f58c6567d5e08725
+8247	12537	7691712746531877	CMakeFiles/newton-fb-QT.dir/muparser/muParserError.cpp.obj	8f176cee98159366
+9420	13468	7691712758261065	CMakeFiles/newton-fb-QT.dir/muparser/muParserInt.cpp.obj	b6f6eab44fd55ed1
+558	14568	7691712669647155	CMakeFiles/newton-fb-QT.dir/muparser/muParserBase.cpp.obj	9fcceb6c222f4273
+540	15310	7691712669458540	CMakeFiles/newton-fb-QT.dir/main.cpp.obj	7fec4ae3c8fed09b
+9713	16855	7691712761196889	CMakeFiles/newton-fb-QT.dir/muparser/muParserTokenReader.cpp.obj	79a672c25ebb7c70
+16855	18161	7691712832610420	newton-fb-QT.exe	cec6367272222a2d
+58	281	7691714252298565	newton-fb-QT_autogen/timestamp	406dec935c33b461
+58	281	7691714252298565	newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+58	281	7691714252298565	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/timestamp	406dec935c33b461
+58	281	7691714252298565	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+304	5262	7691714254790458	CMakeFiles/newton-fb-QT.dir/muparser/muParserBytecode.cpp.obj	3452543b5477878
+295	5353	7691714254702124	CMakeFiles/newton-fb-QT.dir/muparser/muParser.cpp.obj	2e69f0dde06cf66b
+5353	5947	7691714305288517	CMakeFiles/newton-fb-QT.dir/muparser/muParserDLL.cpp.obj	685a5e168051945c
+282	7789	7691714254570692	CMakeFiles/newton-fb-QT.dir/newton-fb-QT_autogen/mocs_compilation.cpp.obj	e06b0a6f70d3e84a
+290	7803	7691714254658079	CMakeFiles/newton-fb-QT.dir/mainwindow.cpp.obj	8609bf103ce57fd6
+5263	7940	7691714304383165	CMakeFiles/newton-fb-QT.dir/muparser/muParserCallback.cpp.obj	f58c6567d5e08725
+5947	9571	7691714311221829	CMakeFiles/newton-fb-QT.dir/muparser/muParserError.cpp.obj	8f176cee98159366
+7790	11334	7691714329648842	CMakeFiles/newton-fb-QT.dir/muparser/muParserInt.cpp.obj	b6f6eab44fd55ed1
+299	11767	7691714254748506	CMakeFiles/newton-fb-QT.dir/muparser/muParserBase.cpp.obj	9fcceb6c222f4273
+286	12381	7691714254610019	CMakeFiles/newton-fb-QT.dir/main.cpp.obj	7fec4ae3c8fed09b
+7803	13281	7691714329764963	CMakeFiles/newton-fb-QT.dir/muparser/muParserTokenReader.cpp.obj	79a672c25ebb7c70
+13281	13636	7691714384557842	newton-fb-QT.exe	cec6367272222a2d
+622	1945	7697822051011189	newton-fb-QT_autogen/timestamp	406dec935c33b461
+622	1945	7697822051011189	newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+622	1945	7697822051011189	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/timestamp	406dec935c33b461
+622	1945	7697822051011189	E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/newton-fb-QT_autogen/mocs_compilation.cpp	406dec935c33b461
+1946	20775	7697822064254054	CMakeFiles/newton-fb-QT.dir/newton-fb-QT_autogen/mocs_compilation.cpp.obj	e06b0a6f70d3e84a
+1993	20803	7697822064722380	CMakeFiles/newton-fb-QT.dir/mainwindow.cpp.obj	8609bf103ce57fd6
+2048	20833	7697822065272811	CMakeFiles/newton-fb-QT.dir/muparser/muParserBytecode.cpp.obj	3452543b5477878
+2023	20848	7697822065026906	CMakeFiles/newton-fb-QT.dir/muparser/muParser.cpp.obj	2e69f0dde06cf66b
+1964	20854	7697822064433570	CMakeFiles/newton-fb-QT.dir/main.cpp.obj	7fec4ae3c8fed09b
+2043	20860	7697822065222928	CMakeFiles/newton-fb-QT.dir/muparser/muParserBase.cpp.obj	9fcceb6c222f4273
+20803	21089	7697822252816752	CMakeFiles/newton-fb-QT.dir/muparser/muParserDLL.cpp.obj	685a5e168051945c
+20775	22961	7697822252537507	CMakeFiles/newton-fb-QT.dir/muparser/muParserCallback.cpp.obj	f58c6567d5e08725
+20833	23775	7697822253127979	CMakeFiles/newton-fb-QT.dir/muparser/muParserError.cpp.obj	8f176cee98159366
+20848	24341	7697822253277615	CMakeFiles/newton-fb-QT.dir/muparser/muParserInt.cpp.obj	b6f6eab44fd55ed1
+20854	26909	7697822253337460	CMakeFiles/newton-fb-QT.dir/muparser/muParserTokenReader.cpp.obj	79a672c25ebb7c70
+26909	38027	7697822313951466	newton-fb-QT.exe	cec6367272222a2d

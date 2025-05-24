@@ -1,0 +1,5 @@
+E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/newton-fb-QT.dir
+E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/newton-fb-QT_autogen_timestamp_deps.dir
+E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/newton-fb-QT_autogen.dir

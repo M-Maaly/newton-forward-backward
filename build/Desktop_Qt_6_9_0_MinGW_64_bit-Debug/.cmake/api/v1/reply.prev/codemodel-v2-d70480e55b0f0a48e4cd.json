@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "newton-fb-QT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "newton-fb-QT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newton-fb-QT-Debug-32343ef6ce66dad40a2a.json",
+					"name" : "newton-fb-QT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newton-fb-QT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newton-fb-QT_autogen-Debug-6918d11d36f9b26569c8.json",
+					"name" : "newton-fb-QT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newton-fb-QT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newton-fb-QT_autogen_timestamp_deps-Debug-be0234dc80bb7dc3479c.json",
+					"name" : "newton-fb-QT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "E:/NUM_Projects/Ch2/Newton F&B/newton-QT/newton-fb-QT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
